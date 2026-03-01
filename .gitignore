@@ -1,6 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-*.pyo
-models/scam_model.pkl
-models/deepfake_model.pkl
