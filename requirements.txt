@@ -1,0 +1,30 @@
+# VoxShield AI - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core ML / AI
+faster-whisper==1.0.3
+transformers==4.40.2
+torch==2.3.0
+torchaudio==2.3.0
+scikit-learn==1.5.0
+
+# Audio Processing
+librosa==0.10.2
+soundfile==0.12.1
+audioread==3.0.1
+
+# Numerical
+numpy==1.26.4
+scipy==1.13.0
+
+# Frontend
+streamlit==1.35.0
+
+# HuggingFace Hub (for model downloads)
+huggingface-hub==0.23.2
+tokenizers==0.19.1
+safetensors==0.4.3
+
+# Utilities
+tqdm==4.66.4
+packaging==24.0
