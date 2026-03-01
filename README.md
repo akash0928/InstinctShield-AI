@@ -110,6 +110,5 @@ The solution is built for high-performance inference and scalable enterprise dep
 
 ## 🎥 Demo
 
-Demo Video: (Add your demo link here)
-
+Demo Video: https://drive.google.com/file/d/1J8US9aEbjQdpi8Hu9rC1B8ZeSwc9O0kn/view?usp=sharing  
 
